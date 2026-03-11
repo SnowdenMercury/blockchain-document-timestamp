@@ -1,0 +1,5 @@
+RPC_URL = "https://eth-sepolia.g.alchemy.com/v2/zTMj8VLAUVpBy9tcCeMXl"
+PRIVATE_KEY = "122a099f117ae05e69db3c330acd8dc730b02d0b9f0ee9e43e3a8d9fba3cda4f"
+CONTRACT_ADDRESS = "0xAAd91f76E91Bd18A90c77CE43ce1f929C9b31e9b"
+
+CHAIN_ID = 11155111  # Sepolia
