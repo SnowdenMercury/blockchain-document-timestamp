@@ -51,5 +51,6 @@ This repository contains the source code developed as part of the bachelor thesi
 
 Mykyta Poznyshev  
 Czech University of Life Sciences Prague  
-Faculty of Economics and Management  
+Faculty of Economics and Management
+Department of Information Technologies
 Bachelor Thesis Project
